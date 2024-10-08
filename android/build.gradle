@@ -27,6 +27,7 @@ android {
     compileSdkVersion 32
 
     defaultConfig {
+        namespace 'com.b.biradar.google_ml_kit'
         minSdkVersion 21
     }
     lintOptions {
